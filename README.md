@@ -59,6 +59,12 @@ streamlit run app.py
 - `requirements.txt`: Python dependencies.
 - `.chroma_db/`: Local database (created on first run).
 
+  
+## 👥 Contributors and Developers
+
+[<img src="https://avatars.githubusercontent.com/u/67865621?s=64&v=4" width="64" height="64" alt="haybnzz">](https://github.com/h9zdev)
+ [<img src="https://avatars.githubusercontent.com/u/108749445?s=64&v=4"  width="64" height="64" alt="VaradScript">](https://github.com/varadScript)
+
 ## 📝 License
 
 MIT License - feel free to modify and distribute!

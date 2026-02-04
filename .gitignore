@@ -16,6 +16,7 @@ env/
 .cache/
 *.log
 *.txt
+!/requirements.txt
 *.json
 
 # Temporary/Debug Scripts

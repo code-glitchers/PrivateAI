@@ -23,6 +23,12 @@ Chat with your **PDF, TXT, and Markdown** files safely and locally.
 - 🖱️ **One-Click Run** – Windows `.bat` launcher
 
 ---
+## 🐧 Linux Support
+
+IncognitoAI now officially supports Linux! Check out our dedicated guide:
+👉 **[Linux Installation & Setup Guide](linux/README.md)**
+
+---
 ## 🚀 Quick Start (Windows)
 
 ### Prerequisites

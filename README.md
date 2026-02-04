@@ -29,18 +29,7 @@ Chat with your **PDF, TXT, and Markdown** files safely and locally.
 
 ---
 
-## 🖥️ Platform-Specific Setup
 
-### 🪟 Windows
-Run the one-click installer:
-```batch
-START_PRIVATEAI.bat
-```
-
-### 🐧 Linux / macOS
-Follow the **[Linux/macOS Installation & Setup Guide](linux/README.md)**
-
----
 
 ## 🚀 Quick Start
 
@@ -78,6 +67,18 @@ Follow the **[Linux/macOS Installation & Setup Guide](linux/README.md)**
 
 ---
 
+## 🖥️ Platform-Specific Setup
+
+### 🪟 Windows
+Run the one-click installer:
+```batch
+START_PRIVATEAI.bat
+```
+
+### 🐧 Linux / macOS
+Follow the **[Linux/macOS Installation & Setup Guide](linux/README.md)**
+
+--- 
 ## 📚 Usage
 
 ### Streamlit Interface (app.py)

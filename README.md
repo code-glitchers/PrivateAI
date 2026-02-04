@@ -10,8 +10,11 @@ Chat with your **PDF, TXT, and Markdown** files safely and locally.
 ![Offline](https://img.shields.io/badge/Mode-100%25%20Offline-success?style=for-the-badge)
 ![Privacy](https://img.shields.io/badge/Privacy-Zero%20Telemetry-green?style=for-the-badge)
 ![RAG](https://img.shields.io/badge/AI-RAG%20Enabled-purple?style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-3.8+-3776ab?style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3.8+-3776ab?style=for-the-badge&logo=python)
 ![License](https://img.shields.io/badge/License-MIT-blue?style=for-the-badge)
+![Linux](https://img.shields.io/badge/Tested-Linux-black?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Tested-Windows-0078D6?style=for-the-badge&logo=windows)
+
 
 ---
 
